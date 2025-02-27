@@ -1,6 +1,3 @@
-// Package subs normally I solve problems with python and
-// translate them into golang. currently I'm learning golang,
-// btw my golang sucks
 package subs
 
 import "fmt"
